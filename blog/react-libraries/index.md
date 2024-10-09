@@ -431,7 +431,7 @@ When it comes to Rich Text Editors in React, I can only think of the following:
 The most common payment providers are Stripe and PayPal. Both can be neatly integrated into React. This is a [working Stripe Checkout with React integration](https://github.com/rwieruch/react-express-stripe).
 
 * [PayPal](https://developer.paypal.com/docs/checkout/)
-* Stripe
+* [Stripe](https://stripe.com)
   * [React Stripe Elements](https://github.com/stripe/react-stripe-js)
   * [Stripe Checkout](https://stripe.com/docs/payments/checkout)
 
